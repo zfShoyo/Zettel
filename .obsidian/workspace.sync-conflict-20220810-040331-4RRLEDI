@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "5134adf9d688364f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e0f82143077e209",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26344cef105bb0fb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ed10fdf3e816238c",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "60657d4fa2ef6975",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "abaeb2cf69cd1519",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b0b1a25ae2c80187",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9645c3ea16e59928",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "49e176af7f9a76c9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5e0f82143077e209",
+  "lastOpenFiles": [
+    "Zettelkast/Zettlekasten/Diagonalization.md",
+    "Zettelkast/Zettlekasten/Column Space.md",
+    "Zettelkast/Zettlekasten/Cloud Computing.md",
+    "Zettelkast/Zettlekasten/Application Workload.md",
+    "Zettelkast/Zettlekasten/Hypervisor.md",
+    "Zettelkast/Zettlekasten/Virtual Machines.md",
+    "IaaS.md",
+    "Fleeting Notes/Cloud Comptuing Fleeting 1.md",
+    "Zettelkast/Zettlekasten/SaaS.md",
+    "PaaS.md"
+  ]
+}

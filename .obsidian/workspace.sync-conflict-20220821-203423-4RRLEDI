@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "5134adf9d688364f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb9cb009aa7d70c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkast/Zettlekasten/Linear Algebra.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "578da55670227e34",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "505461a9b1da5f8b",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "58bc12e3f440966e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "65263aee5e9a6276",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "the less you",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "right": {
+    "id": "ac0cb2d8df4ad4ec",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8984c2ca31460ee6",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "6413a0dc0f5d7073",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Zettelkast/Zettlekasten/Linear Algebra.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "65263aee5e9a6276",
+  "lastOpenFiles": [
+    "Zettelkast/Zettlekasten/Multi tenant architecture.md",
+    "Zettelkast/Zettlekasten/Practice Old Tests.md",
+    "Zettelkast/Zettlekasten/Two is one, and one is none.md",
+    "[Lin Alg Chapter 6.md",
+    "Zettelkast/Zettlekasten/Abstraction.md",
+    "Fleeting Notes/Microcontrollers Fleeting.md",
+    "Zettelkast/Zettlekasten/Application Workload.md",
+    "Zettelkast/Zettlekasten/Cauchy-Schwarz.md",
+    "Zettelkast/Zettlekasten/HTML Element.md",
+    "Zettelkast/Zettlekasten/Orthonormal Basis.md"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "5134adf9d688364f",
+    "type": "split",
+    "children": [
+      {
+        "id": "513548145ba69abb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0684b6e089f1a20",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa0f68300bfa8c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0269756bd9d0abf5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb6987491e56bb0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ecda5a842e5e404",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6915c695d0e9d853",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e05f042818e9109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "293543412a58ccae",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a125af9d5f4005a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eb6987491e56bb0c",
+  "lastOpenFiles": [
+    "Fleeting Notes/Microelectronic circuit textbook.md",
+    "Fleeting Notes/Engineering Projects/Microcontrollers Fleeting.md",
+    "Fleeting Notes/Cloud Computing/Market Share.md",
+    "Fleeting Notes/Cloud Computing/Cloud Comptuing Fleeting 1.md",
+    "Fleeting Notes/Cloud Computing/CC youtube crash course.md",
+    "Fleeting Notes/Cloud Computing/C Review Fleeting.md",
+    "Zettelkast/Zettlekasten/Orthogonal Decomposition Theorem.md",
+    "Zettelkast/Zettlekasten/Practice Old Tests.md",
+    "Zettelkast/Zettlekasten/Least Square Approximation.md",
+    "Zettelkast/Zettlekasten/Orthogonal Diagonalization.md"
+  ]
+}

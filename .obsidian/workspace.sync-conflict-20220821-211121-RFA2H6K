@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "5134adf9d688364f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb9cb009aa7d70c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/CC youtube crash course.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9eb107a8361dfa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a6b5ef0f41be1e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b7f8c4ecc1fa6b0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "59e629bba07e0fb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0810e0ebac29a287",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5
+  },
+  "right": {
+    "id": "e96a64f9491d5883",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffcc75106f56c1ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75171b227d91d89d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7d9fc206f5e97ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fleeting Notes/CC youtube crash course.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4e646fd6e090e617",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a417668321a4f792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkast/Zettlekasten/Multi tenant architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8eb9cb009aa7d70c",
+  "lastOpenFiles": [
+    "Fleeting Notes/Cloud Comptuing Fleeting 1.md",
+    "Zettelkast/Zettlekasten/Least Square Approximation.md",
+    "Zettelkast/Zettlekasten/Orthogonal Diagonalization.md",
+    "Zettelkast/Zettlekasten/Row Space.md",
+    "Zettelkast/Zettlekasten/Practice Old Tests.md",
+    "Zettelkast/Zettlekasten/Orthonormal Basis.md",
+    "Zettelkast/Zettlekasten/Orthogonal Matrix.md",
+    "Zettelkast/Zettlekasten/Orthogonal Decomposition Theorem.md",
+    "Zettelkast/Zettlekasten/Orthogonal Basis.md",
+    "Zettelkast/Zettlekasten/Markdown Cheat Sheet.md"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "3e10c9f545802908",
+    "type": "split",
+    "children": [
+      {
+        "id": "87abfe4312f36af3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/Markdown Cheat Sheet.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2aad5ca2763fed75",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fcafca926121874",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "415247e4e7129572",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "467bb3b07f24bb5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#CloudComputing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "034e1b8c8470398f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca1c206e11f7d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a54162c90fed830",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettlekasten/Markdown Cheat Sheet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "87abfe4312f36af3",
+  "lastOpenFiles": [
+    "Zettlekasten/Markdown Cheat Sheet.md",
+    "Zettlekasten/Application Workload.md",
+    "Zettlekasten/Traditional IT.md",
+    "Zettlekasten/Obsidian Sync Alternative - Github.md",
+    "Zettlekasten/Cloud Computing.md",
+    "Templates/Core Zettelkasten Idea.md",
+    "Zettlekasten/www.youtube.com.md",
+    "Getting Started with Cloud.md",
+    "Zettlekasten/Untitled.md",
+    "Untitled.md"
+  ]
+}
